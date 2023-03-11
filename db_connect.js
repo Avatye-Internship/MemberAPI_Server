@@ -6,5 +6,5 @@ const dbConfig={
     database: 'shopdb',
     port: '3306',
 };
-var pool = mysql.createPool(dbConfig); // DB 커넥션 생성
+const pool = mysql.createPool(dbConfig); // DB 커넥션 생성
 module.exports=pool;

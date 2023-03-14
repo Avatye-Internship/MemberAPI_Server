@@ -1,2 +1,2 @@
-# AvatyeProject1
+# AvatyeProject
 

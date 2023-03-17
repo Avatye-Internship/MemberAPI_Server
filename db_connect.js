@@ -1,4 +1,4 @@
-const mysql=require('mysql');
+const mysql = require('mysql2/promise');
 const dbConfig={
     host: '127.0.0.1', // 여기 수정함
     user: 'root',

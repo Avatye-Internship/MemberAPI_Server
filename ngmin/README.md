@@ -1,2 +1,0 @@
-# AvatyeProject
-### shopdb
